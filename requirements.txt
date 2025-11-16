@@ -1,0 +1,12 @@
+langchain-astradb
+langchain
+langchain-openai
+datasets
+pypdf
+python-dotenv
+fastapi
+uvicorn[standard]
+python-multipart
+jinja2
+
+-e .
